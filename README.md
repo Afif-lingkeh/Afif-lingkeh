@@ -4,6 +4,12 @@ My name is **Mohammad Afif R. Lingkeh**<br>
 
 I am a Student at Trisakti University and Now I'm taking an independent studies at Dicoding 
 
+<p align="left">
+<a href="https://github.com/Afif-lingkeh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Afif-lingkeh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Afif-lingkeh&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **Afif-lingkeh/Afif-lingkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
