@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is **Mohammad Afif R. Lingkeh**<br>
+
+I am a Student at Trisakti University and Now I'm taking an independent studies at Dicoding 
+
 <!--
 **Afif-lingkeh/Afif-lingkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
